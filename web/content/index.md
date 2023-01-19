@@ -2,7 +2,10 @@
 template = "page.html"
 +++
 
-LATTE '23 is a workshop co-located with [ASPLOS '23][asplos-23].
+LATTE is a venue for discussion, debate, and brainstorming about language-oriented approaches to hardware acceleration.
+The focus is on new languages and tools that aim to let domain specialists, not just hardware experts, produce efficient accelerators.
+
+LATTE '23 is co-located with [ASPLOS '23][asplos-23].
 It will happen on Sunday, March 26, 2023 in Vancouver, BC, Canada.
 
 ## Registration
