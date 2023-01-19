@@ -6,7 +6,6 @@ template = "page.html"
 
 Submit your **2-page position paper** via [HotCRP][]. Important dates:
 
-- [HotCRP][] opens: TBA
 - Paper submission:  TBA
 - Author Notification: TBA
 - Workshop: **March 26, 2023**
@@ -51,3 +50,8 @@ We provide [a latex example][format-example] that contains the correct formattin
 
 Paper submission will is via [HotCRP][].
 The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
+
+[hotcrp]: http://example.com/TBA
+[snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
+[sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
+[format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
