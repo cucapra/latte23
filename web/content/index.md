@@ -2,8 +2,8 @@
 template = "page.html"
 +++
 
-LATTE '23 is a workshop co-located with [ASPLOS '23][asplos-21].
-It will happen on **Sunday, March 26, 2023** in Vancouver, BC, Canada.
+LATTE '23 is a workshop co-located with [ASPLOS '23][asplos-23].
+It will happen on Sunday, March 26, 2023 in Vancouver, BC, Canada.
 
 ## Registration
 
@@ -34,7 +34,7 @@ TBA
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [hotcrp]: https://latte.cs.cornell.edu/
 [sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
-[asplos-22]: https://asplos-conference.org/
+[asplos-23]: https://asplos-conference.org/
 [latte-21]: https://capra.cs.cornell.edu/latte21/
 [format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
 [asplos-reg]: https://asplos-conference.org/attend/
