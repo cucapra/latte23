@@ -8,6 +8,8 @@ The focus is on new languages and tools that aim to let domain specialists, not 
 LATTE '23 is co-located with [ASPLOS '23][asplos-23].
 It will happen on Sunday, March 26, 2023 in Vancouver, BC, Canada.
 
+[asplos-23]: https://asplos-conference.org/
+
 ## Call for Participation
 
 LATTE wants your participation!
@@ -15,10 +17,14 @@ You can just attend and discuss, or you can also submit a two-page position pape
 (Accepted papers will come with short talks at the workshop to help drive discussion.)
 Check out the [call for participation][cfp] for details about how to submit a position paper.
 
+[cfp]: @/cfp.md
+
 ## Registration
 
 To attend LATTE, please [register for ASPLOS][asplos-reg].
 Choose the option to attend (at least) one day of workshops/tutorials, and check the box for LATTE on the second page of the registration form.
+
+[asplos-reg]: https://asplos-conference.org/attend/
 
 <div class="committee">
 
@@ -40,8 +46,3 @@ TBA
 
 </div>
 </div>
-
-[asplos-23]: https://asplos-conference.org/
-[latte-21]: https://capra.cs.cornell.edu/latte21/
-[asplos-reg]: https://asplos-conference.org/attend/
-[cfp]: @/cfp.md
