@@ -1,6 +1,8 @@
 +++
 template = "page.html"
+title = "Call for Participation"
 +++
+# Call for Participation
 
 ## Important Stuff
 
@@ -10,7 +12,7 @@ Submit your **2-page position paper** via [HotCRP][]. Important dates:
 - Author Notification: TBA
 - Workshop: **March 26, 2023**
 
-## Call for Participation
+## LATTE ’23
 
 **Motivation.**
 Hardware acceleration is a key part of combating the stagnation of hardware performance scaling. Implementing accelerators with state-of-the-art hardware design flows, such as traditional HDLs and current HLS tools, remains a specialized task requiring EE training, proprietary toolchains, and extremely slow compile-edit-run cycles. While traditional approaches *might* be appropriate for developing general-purpose CPUs that will ship millions of units, they are an impediment to popularizing acceleration for the “long tail” of applications that could benefit from special-purpose hardware. With new language designs and new techniques inspired by traditional compilers research, there is an opportunity to turn accelerator construction from a years-long enterprise into a weekend project.
