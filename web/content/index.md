@@ -41,11 +41,7 @@ TBA
 </div>
 </div>
 
-[snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
-[hotcrp]: https://latte.cs.cornell.edu/
-[sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
 [asplos-23]: https://asplos-conference.org/
 [latte-21]: https://capra.cs.cornell.edu/latte21/
-[format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
 [asplos-reg]: https://asplos-conference.org/attend/
 [cfp]: @/cfp.md

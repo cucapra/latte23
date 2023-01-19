@@ -10,11 +10,6 @@ Submit your **2-page position paper** via [HotCRP][]. Important dates:
 - Author Notification: TBA
 - Workshop: **March 26, 2023**
 
-**Note.** The audience attending LATTE is already very specialized and does
-not require motivating specialized hardware accelerators. We strongly encourage
-authors to keep their introduction sections very focused and short and utilize
-the space for more detailed technical content.
-
 ## Call for Participation
 
 **Motivation.**
@@ -37,7 +32,7 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 - Calls for solutions to open challenges in the area (questions without answers)
 - Demonstrations of real systems (to be shown off in a live demo at the workshop)
 
-### How to Participate
+## Position Papers
 
 The primary goal of the workshop is to enable discussion. It will accept **2-page position papers**.
 The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format:
@@ -51,7 +46,20 @@ We provide [a latex example][format-example] that contains the correct formattin
 Paper submission will is via [HotCRP][].
 The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
 
-[hotcrp]: http://example.com/TBA
+**Important guidelines.**
+It's standard for papers to start with a general motivation: Moore's Law is doomed; specialized hardware is ascendant; Verilog is hard to use; etc.
+*Please skip this part* in your LATTE position paper (and in eventual talks at the workshop).
+The LATTE audience will already believe these things, so save the space & time and instead focus on your own unique ideas.
+As much as possible, dispose with the framing and motivation so you can focus on the technical content.
+
+Remember that the goal at LATTE is to stimulate discussion, not to disseminate fully polished results.
+So don't be afraid to write up half-baked ideas and in-progress work: it's OK if your submission has zero bar charts, for example.
+
+For examples of past position papers, consider looking at the programs for [LATTE ’22][latte-22] and [’21][latte-21].
+
+[hotcrp]: https://latte.cs.cornell.edu/
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
 [format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
+[latte-21]: https://capra.cs.cornell.edu/latte21/
+[latte-22]: https://capra.cs.cornell.edu/latte22/
