@@ -7,9 +7,8 @@ It will happen on **Sunday, March 26, 2023** in Vancouver, BC, Canada.
 
 ## Registration
 
-To attend LATTE please use this [Whova link][whova] to register:
-- For in-person attendance: Register for the "Tuesday Workshops". This will only give you access to the Tuesday workshops. You can additionally register for ASPLOS from the same page.
-- For remote attendace: Register for the "ASPLOS remote" option which will give you access to the entire ASPLOS program.
+To attend LATTE, please [register for ASPLOS][asplos-reg].
+Choose the option to attend (at least) one day of workshops/tutorials, and check the box for LATTE on the second page of the registration form.
 
 <div class="committee">
 
@@ -38,4 +37,4 @@ TBA
 [asplos-22]: https://asplos-conference.org/
 [latte-21]: https://capra.cs.cornell.edu/latte21/
 [format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
-[asplos-reg]: https://whova.com/portal/registration/aicas_202202/
+[asplos-reg]: https://asplos-conference.org/attend/
