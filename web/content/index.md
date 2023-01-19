@@ -34,10 +34,11 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 
 ## Call for Participation
 
-Submit your **2-page position paper** via [HotCRP][]. Important dates:
+Submit your **2-page position paper** via [HotCRP][].
+Important dates:
 
-- Paper submission:  TBA
-- Author Notification: TBA
+- Paper submission: **Feburary 7, 2023**
+- Author Notification: **Feburary 21, 2023**
 - Workshop: **March 26, 2023**
 
 ### Overview
