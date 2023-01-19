@@ -3,5 +3,5 @@
 [LATTE][] is an [ASPLOS][] workshop on applying programming languages and compilers
 techniques to generate hardware accelerators.
 
-[latte]: https://capra.cs.cornell.edu/latte22/
+[latte]: https://capra.cs.cornell.edu/latte23/
 [asplos]: https://asplos-conference.org

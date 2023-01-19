@@ -60,6 +60,6 @@ For examples of past position papers, consider looking at the programs for [LATT
 [hotcrp]: https://latte.cs.cornell.edu/
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart.pdf
-[format-example]: https://github.com/cucapra/latte22/tree/main/camera-ready
+[format-example]: https://github.com/cucapra/latte23/tree/main/camera-ready
 [latte-21]: https://capra.cs.cornell.edu/latte21/
 [latte-22]: https://capra.cs.cornell.edu/latte22/
