@@ -102,7 +102,19 @@ For examples of past position papers, consider looking at the programs for [LATT
 <div class="pc">
 <h2>Program Committee</h2>
 
-TBA
+- [Ang Li](mailto:angl@princeton.edu), Princeton
+- [Bo-Yuan Huang](mailto:byhuang116@gmail.com), Intel
+- [Hanchen Ye](mailto:hanchenye@gmail.com), UIUC
+- [Hongbo Rong](mailto:hongbo.rong@intel.com), Intel
+- [Jianyi Cheng](mailto:jianyi.cheng17@imperial.ac.uk), Imperial College London
+- [Jie Wang](mailto:holawj@gmail.com), Amazon
+- [John Demme](mailto:John.Demme@microsoft.com), Microsoft
+- [Jose Renau](mailto:renau@ucsc.edu), UC Santa Cruz
+- [Julian Oppermann](mailto:oppermann@esa.tu-darmstadt.de), TU Darmstadt
+- [Michael Christensen](mailto:mchristensen@ucsb.edu), Meta
+- [Ross Daly](mailto:ross.daly@stanford.edu), Stanford
+- [Shail Dave](mailto:Shail.Dave@asu.edu), Arizona State University
+- [Thomas Bourgeat](mailto:bthom@csail.mit.edu), MIT
 
 </div>
 
