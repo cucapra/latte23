@@ -121,11 +121,11 @@ For examples of past position papers, consider looking at the programs for [LATT
 <div class="organization">
 <h2> Organizing Committee </h2>
 
-- [Stephen Neuendorffer](https://sites.google.com/site/sneuendorffer/)
-- [Rachit Nigam](https://rachitnigam.com)
-- [Adrian Sampson](https://adriansampson.net)
-- [Zachary Sisco](https://zsisco.github.io)
-- [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/)
+- [Stephen Neuendorffer](https://sites.google.com/site/sneuendorffer/), AMD
+- [Rachit Nigam](https://rachitnigam.com), Cornell
+- [Adrian Sampson](https://adriansampson.net), Cornell
+- [Zachary Sisco](https://zsisco.github.io), UC Santa Barbara
+- [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), Cornell
 
 </div>
 </div>
