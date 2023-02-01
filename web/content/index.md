@@ -115,6 +115,7 @@ For examples of past position papers, consider looking at the programs for [LATT
 - [Ross Daly](https://web.stanford.edu/~rdaly525/), Stanford
 - [Shail Dave](https://sites.google.com/view/shail/), Arizona State University
 - [Thomas Bourgeat](https://people.csail.mit.edu/bthom/), EPFL
+- [Yann Herklotz](https://yannherklotz.com/), Imperial College London
 
 </div>
 
