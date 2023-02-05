@@ -104,6 +104,7 @@ For examples of past position papers, consider looking at the programs for [LATT
 
 - [Ang Li](https://ece.princeton.edu/people/ang-li), Princeton
 - [Bo-Yuan Huang](https://bo-yuan-huang.github.io), Intel
+- [Clément Pit-Claudel](https://pit-claudel.fr/clement/), EPFL
 - [Hanchen Ye](https://hanchenye.com), UIUC
 - [Hongbo Rong](https://sites.google.com/view/hongborong), Intel
 - [Jianyi Cheng](https://jianyicheng.github.io), Imperial College London
