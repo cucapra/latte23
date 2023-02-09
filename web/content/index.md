@@ -37,7 +37,7 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 Submit your **2-page position paper** via [HotCRP][].
 Important dates:
 
-- Paper submission: **February 7, 2023**
+- Paper submission: **February <s>7</s> 8, 2023**
 - Author Notification: **February 21, 2023**
 - Workshop: **March 26, 2023**
 
