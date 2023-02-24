@@ -1,1 +1,10 @@
 ID,Title,Authors,Thread,Talk,Session
+1,PipelineC: Easier Hardware Description Between RTL and HLS,Julian Kemmerer,,,
+2,Abstraction in the Spade Hardware Description Language,"Frans Skarman, Oscar Gustafsson (Linköping University)",,,
+3,Designing a Hardware Accelerator with the Sparse Abstract Machine,"Olivia Hsu, Maxwell Strange, Kunle Olukotun, Mark Horowitz, Fredrik Kjolstad (Stanford University)",,,
+5,SQuadS: Self-Serve System Services for new Hardware-Software Cooperation,Nazerke Turtayeva (UC Santa Barbara); Guillem López Paradís (BSC & UPC); Jonathan Balkind (UC Santa Barbara),,,
+6,Hector: Multi-level Paradigm in Hardware Synthesis,"Ruifan Xu, Youwei Xiao, Jin Luo, Yun Liang (Peking University)",,,
+7,Exploring Performance of Cache-Aware Tiling Strategies in MLIR Infrastructure,"Mingyu Chen, Yu Zhang (Advanced-tech campus of University of Science and Technology of China, Hefei, Anhui Province, China); Hongbo Rong, Jianhui Li (Intel)",,,
+10,PyAIE: A Python-based Programming Framework for Versal ACAP AI Engines,"Hongzheng Tian, Shining Yang, Yoonha Cha, Sitao Huang (University of California, Irvine)",,,
+11,Insights from *Gen: Correct-by-construction Coherence Protocols,Vijay Nagarajan (University of Edinburgh); Dan Sorin (Duke University); Nicolai Oswald (University of Edinburgh/NVIDIA),,,
+12,Towards Gradually Typed Hardware Description Languages,"Peitian Pan, Shunning Jiang, Yanghui Ou, Christopher Batten (Cornell University)",,,
