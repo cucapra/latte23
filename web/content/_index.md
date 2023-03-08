@@ -13,10 +13,15 @@ It will happen on Sunday, March 26, 2023 in Vancouver, BC, Canada.
 
 ## Registration
 
-To attend LATTE, please [register for ASPLOS][asplos-reg].
+To attend LATTE in person, please [register for ASPLOS][asplos-reg].
 Choose the option to attend (at least) one day of workshops/tutorials, and check the box for LATTE on the second page of the registration form.
 
+We also invite virtual participation.
+To attend virtually, [pre-register for the Zoom meeting][zoom] (which is free).
+You don't need to register for ASPLOS.
+
 [asplos-reg]: https://asplos-conference.org/attend/
+[zoom]: https://cornell.zoom.us/meeting/register/tJIufuquqzIiGNyivdgczgz21TbRiBGjqTEW
 
 ## Discussion & Open Mic
 
