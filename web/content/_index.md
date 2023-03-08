@@ -42,6 +42,10 @@ Most applications benefiting from accelerators (especially ML accelerators) rely
 
 First, I will discuss performance and correctness.  Should we think of this as a tradeoff (as the talk title implies) or two halves of the same whole?  Then, I will discuss two different “user-scheduled” languages we’ve built to achieve both performance and correctness in HPC kernel programming. (1) Exo is an imperative language which turns the compiler “inside out” by externalizing control of code optimization directly to the user, and by replacing hardware-specific backends (the compiler writers’ responsibility) with user-level libraries (the performance engineers’ responsibility). (2) ATL is a simple functional tensor language, which we have embedded in Coq. Rewrites of ATL programs thereby become lemmas, and user-scheduling directives become proof tactics. These languages match the performance of highly tuned linear algebra, neural net and image processing kernels by using formal verification machinery to expedite the existing optimization process of low-level software performance engineers.
 
+## Talks
+
+{{ program() }}
+
 <div class="committee">
 
 <div class="pc">
