@@ -18,6 +18,22 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 
 [asplos-reg]: https://asplos-conference.org/attend/
 
+## Tentative Program
+
+| Time (PST) | Event |
+|-------------|-------|
+| {{time(t="9am", l="9–9:15am")}} | Opening & Introductions |
+| {{time(t="9:15am", l="9:15–10:15am")}} | TK |
+| {{time(t="10:15am", l="10:15–11am")}} | TK |
+| {{time(t="11am", l="11–11:30am")}} | Coffee Break |
+| {{time(t="11:30am", l="11:30am–12:00pm")}} | TK |
+| {{time(t="12pm", l="12:00–1:30pm")}} | Lunch (on your own) |
+| {{time(t="1:30pm", l="1:30–2:30pm")}} | Discussion |
+| {{time(t="2:30pm", l="2:30–3pm")}} | TK |
+| {{time(t="3pm", l="3–4pm")}} | TK |
+| {{time(t="4pm", l="4–4:30pm")}} | Coffee Break |
+| {{time(t="4:30pm", l="4:30–5pm")}} | TK |
+
 <div class="committee">
 
 <div class="pc">
