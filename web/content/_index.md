@@ -42,9 +42,16 @@ Most applications benefiting from accelerators (especially ML accelerators) rely
 
 First, I will discuss performance and correctness.  Should we think of this as a tradeoff (as the talk title implies) or two halves of the same whole?  Then, I will discuss two different “user-scheduled” languages we’ve built to achieve both performance and correctness in HPC kernel programming. (1) Exo is an imperative language which turns the compiler “inside out” by externalizing control of code optimization directly to the user, and by replacing hardware-specific backends (the compiler writers’ responsibility) with user-level libraries (the performance engineers’ responsibility). (2) ATL is a simple functional tensor language, which we have embedded in Coq. Rewrites of ATL programs thereby become lemmas, and user-scheduling directives become proof tactics. These languages match the performance of highly tuned linear algebra, neural net and image processing kernels by using formal verification machinery to expedite the existing optimization process of low-level software performance engineers.
 
-## Talks
+## Talk Sessions
 
 {{ program() }}
+
+## Invited Talk
+
+**A Scalable Formal Approach for Correctness-Assured Hardware Design**  
+Jin Yang, Intel
+
+Correctness must be a first principle in hardware design, especially for security and safety critical applications. We will give an overview of our scalable approach for correctness-assured hardware design at behavioral level, based on formalizing microarchitecture features as program transformations in an incremental compiler design and microprocessor correctness as a refined notation of compiler correctness. We will show how our approach is applied to designing a formally verified FHE (Fully Homomorphic Encryption) accelerator.
 
 <div class="committee">
 
