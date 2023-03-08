@@ -33,6 +33,9 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 | {{time(t="3pm", l="3–3:30pm")}} | [Session 3](#session-3) |
 | {{time(t="3:30pm", l="3:30–4pm")}} | Discussion |
 
+Talks in the sessions are 7 minutes.
+Each session will have 9 minutes of shared discussion time directed toward all the authors in a given session.
+
 ## Keynote
 
 **Performance vs. Correctness When Writing Low-Level HPC Code**  
