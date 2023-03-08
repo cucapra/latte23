@@ -18,6 +18,17 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 
 [asplos-reg]: https://asplos-conference.org/attend/
 
+## Discussion & Open Mic
+
+The focus of LATTE is on generating discussion---before, during, and after the workshop!
+We have set up asynchronous discussion threads for each of the talks at the workshop.
+Regardless of whether you can join us in Vancouver or on Zoom, we want you to participate!
+Get the discussion started now.
+
+At the workshop, we have time dedicated to an "Open Mic" to give voice to to these asynchronous discussions.
+As topics progress on the threads, please keep track of anything that arises that you think the broader audience should know about.
+You can take 60 seconds during the "Open Mic" session to summarize the point and get the synchronous discussion rolling.
+
 ## Tentative Program
 
 | Time (PST) | Event |
