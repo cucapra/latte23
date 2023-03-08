@@ -23,7 +23,7 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 | Time (PST) | Event |
 |-------------|-------|
 | {{time(t="9am", l="9–9:15am")}} | Opening & Introductions |
-| {{time(t="9:15am", l="9:15–10:15am")}} | Keynote: TK |
+| {{time(t="9:15am", l="9:15–10:15am")}} | [Keynote by Gilbert Bernstein](#keynote) |
 | {{time(t="10:15am", l="10:15–10:30am")}} | Break |
 | {{time(t="11am", l="11–11:30am")}} | Session 1 |
 | {{time(t="11:30am", l="11:30am–12:00pm")}} | Discussion & Open Mic |
@@ -32,6 +32,15 @@ Choose the option to attend (at least) one day of workshops/tutorials, and check
 | {{time(t="2:45pm", l="2:45-3pm")}} | Break |
 | {{time(t="3pm", l="3–3:30pm")}} | Session 3 |
 | {{time(t="3:30pm", l="3:30–4pm")}} | Discussion |
+
+## Keynote
+
+**Performance vs. Correctness When Writing Low-Level HPC Code**  
+[Gilbert Bernstein](http://www.gilbertbernstein.com), University of Washington
+
+Most applications benefiting from accelerators (especially ML accelerators) rely on hand-optimized high-performance kernel libraries to get access to new hardware, and ensure a high level of performance (e.g. BLAS, CuDNN, etc.). However, these kernel libraries are still written and optimized by hand, at great expense using low-level C and assembly code. This is because the performance engineers who write this code, (like the hardware designers on the other side of the ISA from them) require control over the design. What if we designed programming languages specially tailored to the needs of these programmers?
+
+First, I will discuss performance and correctness.  Should we think of this as a tradeoff (as the talk title implies) or two halves of the same whole?  Then, I will discuss two different “user-scheduled” languages we’ve built to achieve both performance and correctness in HPC kernel programming. (1) Exo is an imperative language which turns the compiler “inside out” by externalizing control of code optimization directly to the user, and by replacing hardware-specific backends (the compiler writers’ responsibility) with user-level libraries (the performance engineers’ responsibility). (2) ATL is a simple functional tensor language, which we have embedded in Coq. Rewrites of ATL programs thereby become lemmas, and user-scheduling directives become proof tactics. These languages match the performance of highly tuned linear algebra, neural net and image processing kernels by using formal verification machinery to expedite the existing optimization process of low-level software performance engineers.
 
 <div class="committee">
 
