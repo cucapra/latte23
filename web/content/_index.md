@@ -1,5 +1,4 @@
 +++
-template = "page.html"
 +++
 
 LATTE is a venue for discussion, debate, and brainstorming about language-oriented approaches to hardware acceleration.
