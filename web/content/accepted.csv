@@ -1,12 +1,12 @@
 ID,Title,Authors,Thread,Talk,Session
-1,PipelineC: Easier Hardware Description Between RTL and HLS,Julian Kemmerer,https://github.com/cucapra/latte23/discussions/1,,Session 1
+1,PipelineC: Easier Hardware Description Between RTL and HLS,Julian Kemmerer,https://github.com/cucapra/latte23/discussions/1,https://www.youtube.com/watch?v=uDYx7VfJ78o,Session 1
 2,Abstraction in the Spade Hardware Description Language,"Frans Skarman, Oscar
-Gustafsson (Linköping University)",https://github.com/cucapra/latte23/discussions/2,,Session 1
+Gustafsson (Linköping University)",https://github.com/cucapra/latte23/discussions/2,https://youtu.be/ibRN-39rt0s,Session 1
 3,Designing a Hardware Accelerator with the Sparse Abstract Machine,"Olivia Hsu, Maxwell Strange, Kunle Olukotun, Mark Horowitz, Fredrik Kjolstad (Stanford University)",https://github.com/cucapra/latte23/discussions/8,,Session 3
 5,SQuadS: Self-Serve System Services for new Hardware-Software Cooperation,Nazerke Turtayeva (UC Santa Barbara); Guillem López Paradís (BSC & UPC); Jonathan Balkind (UC Santa Barbara),https://github.com/cucapra/latte23/discussions/9,,Session 3
-6,Hector: Multi-level Paradigm in Hardware Synthesis,"Ruifan Xu, Youwei Xiao, Jin Luo, Yun Liang (Peking University)",https://github.com/cucapra/latte23/discussions/4,,Session 2
-7,Exploring Performance of Cache-Aware Tiling Strategies in MLIR Infrastructure,"Mingyu Chen, Yu Zhang (Advanced-tech campus of University of Science and Technology of China, Hefei, Anhui Province, China); Hongbo Rong, Jianhui Li (Intel)",https://github.com/cucapra/latte23/discussions/5,,Session 2
-10,PyAIE: A Python-based Programming Framework for Versal ACAP AI Engines,"Hongzheng Tian, Shining Yang, Yoonha Cha, Sitao Huang (University of California, Irvine)",https://github.com/cucapra/latte23/discussions/6,,Session 2
-11,Insights from *Gen: Correct-by-construction Coherence Protocols,Vijay Nagarajan (University of Edinburgh); Dan Sorin (Duke University); Nicolai Oswald (University of Edinburgh/NVIDIA),https://github.com/cucapra/latte23/discussions/10,,Session 3
-12,Towards Gradually Typed Hardware Description Languages,"Peitian Pan, Shunning Jiang, Yanghui Ou, Christopher Batten (Cornell University)",https://github.com/cucapra/latte23/discussions/3,,Session 1
+6,Hector: Multi-level Paradigm in Hardware Synthesis,"Ruifan Xu, Youwei Xiao, Jin Luo, Yun Liang (Peking University)",https://github.com/cucapra/latte23/discussions/4,https://youtu.be/ys4YHJkKYTU,Session 2
+7,Exploring Performance of Cache-Aware Tiling Strategies in MLIR Infrastructure,"Mingyu Chen, Yu Zhang (Advanced-tech campus of University of Science and Technology of China, Hefei, Anhui Province, China); Hongbo Rong, Jianhui Li (Intel)",https://github.com/cucapra/latte23/discussions/5,https://youtu.be/SV2bILicYog,Session 2
+10,PyAIE: A Python-based Programming Framework for Versal ACAP AI Engines,"Hongzheng Tian, Shining Yang, Yoonha Cha, Sitao Huang (University of California, Irvine)",https://github.com/cucapra/latte23/discussions/6,https://youtu.be/QrtP7Fri4pI,Session 2
+11,Insights from *Gen: Correct-by-construction Coherence Protocols,Vijay Nagarajan (University of Edinburgh); Dan Sorin (Duke University); Nicolai Oswald (University of Edinburgh/NVIDIA),https://github.com/cucapra/latte23/discussions/10,https://www.youtube.com/watch?v=kHw05tNmEfs,Session 3
+12,Towards Gradually Typed Hardware Description Languages,"Peitian Pan, Shunning Jiang, Yanghui Ou, Christopher Batten (Cornell University)",https://github.com/cucapra/latte23/discussions/3,https://youtu.be/uzJgdZNSReI,Session 1
 0,A Scalable Formal Approach for Correctness-Assured Hardware Design,"Jin Yang (Intel)",https://github.com/cucapra/latte23/discussions/7,,Session 2
