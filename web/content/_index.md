@@ -36,7 +36,7 @@ You can take 60 seconds during the "Open Mic" session to summarize the point and
 
 ## Tentative Program
 
-| Time (PST) | Event |
+| Time (PDT) | Event |
 |-------------|-------|
 | {{time(t="9am", l="9–9:15am")}} | Opening & Introductions |
 | {{time(t="9:15am", l="9:15–10:15am")}} | [Keynote by Gilbert Bernstein](#keynote) |
