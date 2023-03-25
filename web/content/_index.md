@@ -45,7 +45,7 @@ You can take 60 seconds during the "Open Mic" session to summarize the point and
 | {{time(t="11:10am", l="11:10am–noon")}} | Discussion & Open Mic |
 | {{time(t="12pm", l="noon–1:40pm")}} | Lunch |
 | {{time(t="1:40pm", l="1:40–2:10pm")}} | [Session 2](#session-2) |
-| {{time(t="2:10pm", l="2:10–2:40")}} | [Session 3](#session-3) |
+| {{time(t="2:10pm", l="2:10–2:40pm")}} | [Session 3](#session-3) |
 | {{time(t="2:40pm", l="2:40-3:20pm")}} | [Invited talk](#invited-talk) |
 | {{time(t="3:20pm", l="3:20-3:40pm")}} | Break |
 | {{time(t="3:40pm", l="3:40–4pm")}} | Discussion & Closing |
