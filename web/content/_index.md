@@ -39,10 +39,10 @@ You can take 60 seconds during the "Open Mic" session to summarize the point and
 | Time (PDT) | Event |
 |-------------|-------|
 | {{time(t="9am", l="9–9:15am")}} | Opening & Introductions |
-| {{time(t="9:15am", l="9:15–10:15am")}} | [Keynote by Gilbert Bernstein](#keynote) |
-| {{time(t="10:15am", l="10:15–10:30am")}} | Break |
-| {{time(t="11am", l="11–11:30am")}} | [Session 1](#session-1) |
-| {{time(t="11:30am", l="11:30am–12:00pm")}} | Discussion & Open Mic |
+| {{time(t="9:15am", l="9:15–10:20am")}} | [Keynote by Gilbert Bernstein](#keynote) |
+| {{time(t="10:15am", l="10:20–10:40am")}} | Break |
+| {{time(t="11am", l="10:40–11:10am")}} | [Session 1](#session-1) |
+| {{time(t="11:30am", l="11:10am–12:00pm")}} | Discussion & Open Mic |
 | {{time(t="12pm", l="12:00–1:30pm")}} | Lunch |
 | {{time(t="1:30pm", l="1:30–2:45pm")}} | [Session 2](#session-2) |
 | {{time(t="2:45pm", l="2:45-3pm")}} | Break |
