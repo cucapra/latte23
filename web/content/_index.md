@@ -34,7 +34,7 @@ At the workshop, we have time dedicated to an "Open Mic" to give voice to to the
 As topics progress on the threads, please keep track of anything that arises that you think the broader audience should know about.
 You can take 60 seconds during the "Open Mic" session to summarize the point and get the synchronous discussion rolling.
 
-## Tentative Program
+## Program
 
 | Time (PDT) | Event |
 |-------------|-------|
