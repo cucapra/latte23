@@ -50,8 +50,8 @@ You can take 60 seconds during the "Open Mic" session to summarize the point and
 | {{time(t="3:20pm", l="3:20-3:40pm")}} | Break |
 | {{time(t="3:40pm", l="3:40–4pm")}} | Discussion & Closing |
 
-Talks in the sessions are 7 minutes.
-Each session will have 9 minutes of shared discussion time directed toward all the authors in a given session.
+Talks in the sessions are 7 minutes, each with 1 minute of short clarification questions.
+Each session will have 6 minutes of shared discussion time directed toward all the authors in a given session.
 
 ## Keynote
 
